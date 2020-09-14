@@ -1,5 +1,5 @@
 {
-  "name": "@zonikj/validatejs",
+  "name": "smvalidatejs",
   "version": "1.0.0",
   "description": "Lightweight JavaScript form validation library",
   "sideEffects": false,
